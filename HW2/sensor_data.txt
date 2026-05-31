@@ -1,0 +1,12 @@
+Sensor_A,22.5,10:00
+Sensor_B,45.2,10:01
+Sensor_A,None,10:02
+Sensor_C,-99.0,10:03
+Sensor_B,46.8,10:04
+Sensor_A,23.1,10:05
+Sensor_C,12.4,10:06
+Sensor_B,155.0,10:07
+Sensor_A,24.0,10:08
+Sensor_C,15.8,10:09
+Sensor_B,None,10:10
+Sensor_A,22.9,10:11
